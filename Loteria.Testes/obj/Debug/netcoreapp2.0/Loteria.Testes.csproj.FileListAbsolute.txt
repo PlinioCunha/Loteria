@@ -1,0 +1,16 @@
+C:\Users\Plínio Cunha\Source\repos\Loteria\Loteria.Testes\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Plínio Cunha\Source\repos\Loteria\Loteria.Testes\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Plínio Cunha\Source\repos\Loteria\Loteria.Testes\bin\Debug\netcoreapp2.0\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Plínio Cunha\Source\repos\Loteria\Loteria.Testes\bin\Debug\netcoreapp2.0\Loteria.Testes.deps.json
+C:\Users\Plínio Cunha\Source\repos\Loteria\Loteria.Testes\bin\Debug\netcoreapp2.0\Loteria.Testes.runtimeconfig.json
+C:\Users\Plínio Cunha\Source\repos\Loteria\Loteria.Testes\bin\Debug\netcoreapp2.0\Loteria.Testes.runtimeconfig.dev.json
+C:\Users\Plínio Cunha\Source\repos\Loteria\Loteria.Testes\bin\Debug\netcoreapp2.0\Loteria.Testes.dll
+C:\Users\Plínio Cunha\Source\repos\Loteria\Loteria.Testes\bin\Debug\netcoreapp2.0\Loteria.Testes.pdb
+C:\Users\Plínio Cunha\Source\repos\Loteria\Loteria.Testes\obj\Debug\netcoreapp2.0\Loteria.Testes.csprojResolveAssemblyReference.cache
+C:\Users\Plínio Cunha\Source\repos\Loteria\Loteria.Testes\obj\Debug\netcoreapp2.0\Loteria.Testes.csproj.CoreCompileInputs.cache
+C:\Users\Plínio Cunha\Source\repos\Loteria\Loteria.Testes\obj\Debug\netcoreapp2.0\Loteria.Testes.AssemblyInfoInputs.cache
+C:\Users\Plínio Cunha\Source\repos\Loteria\Loteria.Testes\obj\Debug\netcoreapp2.0\Loteria.Testes.AssemblyInfo.cs
+C:\Users\Plínio Cunha\Source\repos\Loteria\Loteria.Testes\obj\Debug\netcoreapp2.0\Loteria.Testes.dll
+C:\Users\Plínio Cunha\Source\repos\Loteria\Loteria.Testes\obj\Debug\netcoreapp2.0\Loteria.Testes.pdb
+C:\Users\Plínio Cunha\Source\repos\Loteria\Loteria.Testes\bin\Debug\netcoreapp2.0\Loteria.Domain.dll
+C:\Users\Plínio Cunha\Source\repos\Loteria\Loteria.Testes\bin\Debug\netcoreapp2.0\Loteria.Domain.pdb

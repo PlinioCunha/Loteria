@@ -1,0 +1,13 @@
+C:\Users\Plínio Cunha\Source\repos\Loteria\LoteriaConsole\bin\Debug\netcoreapp2.0\Loteria.Console.deps.json
+C:\Users\Plínio Cunha\Source\repos\Loteria\LoteriaConsole\bin\Debug\netcoreapp2.0\Loteria.Console.runtimeconfig.json
+C:\Users\Plínio Cunha\Source\repos\Loteria\LoteriaConsole\bin\Debug\netcoreapp2.0\Loteria.Console.runtimeconfig.dev.json
+C:\Users\Plínio Cunha\Source\repos\Loteria\LoteriaConsole\bin\Debug\netcoreapp2.0\Loteria.Console.dll
+C:\Users\Plínio Cunha\Source\repos\Loteria\LoteriaConsole\bin\Debug\netcoreapp2.0\Loteria.Console.pdb
+C:\Users\Plínio Cunha\Source\repos\Loteria\LoteriaConsole\bin\Debug\netcoreapp2.0\Loteria.Domain.dll
+C:\Users\Plínio Cunha\Source\repos\Loteria\LoteriaConsole\bin\Debug\netcoreapp2.0\Loteria.Domain.pdb
+C:\Users\Plínio Cunha\Source\repos\Loteria\LoteriaConsole\obj\Debug\netcoreapp2.0\Loteria.Console.csprojResolveAssemblyReference.cache
+C:\Users\Plínio Cunha\Source\repos\Loteria\LoteriaConsole\obj\Debug\netcoreapp2.0\Loteria.Console.csproj.CoreCompileInputs.cache
+C:\Users\Plínio Cunha\Source\repos\Loteria\LoteriaConsole\obj\Debug\netcoreapp2.0\Loteria.Console.AssemblyInfoInputs.cache
+C:\Users\Plínio Cunha\Source\repos\Loteria\LoteriaConsole\obj\Debug\netcoreapp2.0\Loteria.Console.AssemblyInfo.cs
+C:\Users\Plínio Cunha\Source\repos\Loteria\LoteriaConsole\obj\Debug\netcoreapp2.0\Loteria.Console.dll
+C:\Users\Plínio Cunha\Source\repos\Loteria\LoteriaConsole\obj\Debug\netcoreapp2.0\Loteria.Console.pdb
